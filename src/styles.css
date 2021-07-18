@@ -1,0 +1,41 @@
+.App {
+  font-family: sans-serif;
+  text-align: left;
+}
+
+input {
+  border: 1px solid black;
+}
+
+button {
+  border: 1px solid black;
+}
+
+img {
+  width: 100px;
+}
+
+.cardShop {
+  display: inline-flexbox;
+  border: 1px solid #d3d3d3;
+  height: 180px;
+  margin-top: 10px;
+  width: 200px;
+}
+
+.btnCard {
+  background-color: ;
+}
+.pic {
+  height: 100px;
+}
+
+.cart {
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
+  width: 100vw;
+  min-height: 10vh;
+  max-height: 40vh;
+  background-color: hsl(0, 1%, 65%);
+}
